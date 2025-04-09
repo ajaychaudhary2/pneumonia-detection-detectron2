@@ -1,6 +1,8 @@
 import gdown
 import os
 
+model_path = "rsna_output/model_final.pth"
+config_path = "rsna_output/config.yaml"
 
 # Download if not already present
 if not os.path.exists(model_path):
