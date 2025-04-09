@@ -14,7 +14,7 @@ This project detects pneumonia in chest CT scan images using a **Faster R-CNN** 
 
 ## 🧪 Demo
 
-![Prediction Result](assets/demo_result.png)
+![Prediction Result](demo/img.png)
 
 ---
 ### 1. Clone the Repository
